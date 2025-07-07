@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Zhenhai Peng
 
 🎓 **M.S. in Computer Science @ Northeastern University (GPA: 4.0)**  
-👨🏻‍💻 **Former Software Engineer Intern @ Bosch**
+👨🏻‍💻 **Software Engineer Intern @Alibaba @ Bosch**
 
 ---
 
